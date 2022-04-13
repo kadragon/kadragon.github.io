@@ -4,7 +4,8 @@ excerpt: "testing"
 
 categories:
   - Blog
-tags: -Blog
+tags:
+  - Blog
 last_modified_at: 2022-04-13T11:29:00
 ---
 
